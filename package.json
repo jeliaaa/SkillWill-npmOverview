@@ -1,0 +1,22 @@
+{
+  "name": "sw-npm-overview",
+  "version": "1.0.0",
+  "description": "this is my assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeliaaa/SkillWill-npmOverview.git"
+  },
+  "author": "Aleksandre Jelia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeliaaa/SkillWill-npmOverview/issues"
+  },
+  "homepage": "https://github.com/jeliaaa/SkillWill-npmOverview#readme",
+  "dependencies": {
+    "validator": "^13.9.0"
+  }
+}
